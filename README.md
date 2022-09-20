@@ -1,6 +1,6 @@
 ### 🧙‍ Hello There! I'm Bryan and welcome to my GitHub Profile! 🧙‍
 ![Profile views](https://gpvc.arturio.dev/devGalaxyUGC)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devGalaxyUGC&show_icons=true&theme=github_dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devGalaxyUGC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)  
 <br>
 ### Want to Contact me? Send me a message on LinkedIn! </h3><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>
 
